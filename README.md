@@ -11,7 +11,7 @@ Feel free to explore my repositories and see what I’m working on!
 </div>
 
 #### 📫 How to reach me:
-<a href="mailto: suminbaek99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto: suminb99@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <!--
