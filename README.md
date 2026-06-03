@@ -17,12 +17,13 @@ Feel free to explore my repositories and see what I’m working on!
 
 <br />
 
-### 🚀 Featured Projects
+### 🌈 Featured Projects:
 
 | | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/2025-snowCode/snowCode-Client/2c8289bbd8e513213beeaed0766b68121b6d5148/public/favicon.svg" width="40"/> | [snowCode](https://github.com/2025-snowCode/snowCode-Client) | 과제 출제부터 제출, 채점, 피드백까지 — 프로그래밍 과제를 위한 올인원 플랫폼 | React, TypeScript, TanStack Query, tailwind CSS |
 | <img src="https://raw.githubusercontent.com/APPS-sookmyung/2025-INCHEON-SITE/277839fd7b66f1c5b737156d04bd2e96960e2f0f/public/favicon.svg" width="40"/> | [점점점](https://github.com/APPS-sookmyung/2025-INCHEON-SITE) | APPS x 인천문화재단 협업 2025 문화예술특화거리 점점점 공동 프로젝트 웹사이트 | React, JavaScript, tailwind CSS |
+| <img src="https://emojicdn.elk.sh/🐶?style=twitter" width="40"/> | [펫토리](https://github.com/suminb99/2024-MYP) | 귀여운 동물 밈 제작 웹사이트 | JavaScript, Fabric.js, HTML, CSS |
 
 <br />
 
