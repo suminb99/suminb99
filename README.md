@@ -3,7 +3,7 @@ Feel free to explore my repositories and see what I’m working on!
 
 <br />
 
-#### 🌱 My tech stack:
+### 🌱 My tech stack:
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge"/>
@@ -17,7 +17,7 @@ Feel free to explore my repositories and see what I’m working on!
 
 <br />
 
-#### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|---|
@@ -26,7 +26,7 @@ Feel free to explore my repositories and see what I’m working on!
 
 <br />
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 <a href="mailto: suminb99@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <br />
